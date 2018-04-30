@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1959ab4-3df1-4110-a5d9-d8e9ccaeddad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.Python 第一次的接触/3. 数据类型.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.Python 第一次的接触/4. 常用操作符.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3. 数据类型.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.Python 第一次的接触/3. 数据类型.md">
+      <file leaf-file-name="4. 常用操作符.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.Python 第一次的接触/4. 常用操作符.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-219">
+                <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/1.Python 第一次的接触/1. 下载与安装.md" />
         <option value="$PROJECT_DIR$/1.Python 第一次的接触/2. 变量与字符串.md" />
         <option value="$PROJECT_DIR$/1.Python 第一次的接触/3. 数据类型.md" />
+        <option value="$PROJECT_DIR$/1.Python 第一次的接触/4. 常用操作符.md" />
       </list>
     </option>
   </component>
@@ -231,6 +233,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Python 第一次的接触/4. 常用操作符.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-219">
+            <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
